@@ -1,0 +1,9 @@
+
+]
+java:S2259S"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8“×•Ìß1
+l
+java:S2095g"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®Ä€ü8“×•Ìß1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áèª¬ıÿÿÿÿ8›×•Ìß1
+f
+java:S3252"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(ÏÜÂ8­×•Ìß1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(†„‹ƒúÿÿÿÿ8±×•Ìß1
